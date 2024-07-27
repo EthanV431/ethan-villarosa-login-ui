@@ -49,3 +49,7 @@ body, html {
 .login-button:hover {
     background-color: #612605;
 }
+
+.login-button:active {
+    background-color: #361705;
+}
